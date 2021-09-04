@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NitroGen", "NitroGen\NitroGen.csproj", "{93ECBBDE-8335-403F-9FBB-0689B77E18CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93ECBBDE-8335-403F-9FBB-0689B77E18CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93ECBBDE-8335-403F-9FBB-0689B77E18CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93ECBBDE-8335-403F-9FBB-0689B77E18CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93ECBBDE-8335-403F-9FBB-0689B77E18CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF85DF37-DA26-45A6-B3D8-29818D356F3A}
+	EndGlobalSection
+EndGlobal
