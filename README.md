@@ -2,10 +2,13 @@
 
 
 ## About
-idk
+Paysafecard generator written in c#
 
 
 This tool is used for educational purposes only. 
 
 ## Picture
 ![Picture](https://cdn.discordapp.com/attachments/881087735358709820/884119961256206336/ss.png)
+![Discord](https://img.shields.io/badge/-DM%20me%20on%20discord!-0d0d0d?&logo=discord)
+
+zabor#1001</li>
