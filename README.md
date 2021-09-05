@@ -1,5 +1,5 @@
 # PaysafecardGenerator
-<img src="https://raw.githubusercontent.com/Rawiros/Rawiros/main/line.png" width="100%">
+
 
 ## About
 Paysafecard generator written in c#
