@@ -1,4 +1,3 @@
 # PaySafecardGenerator
-💵Pies hal hal
-💵Psc gen cracked by mohhamed avdol $$$
+jakies gowno syf totalny
 <li> discord: zabor#1001
